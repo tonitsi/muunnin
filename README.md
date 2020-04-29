@@ -1,2 +1,2 @@
-# muunnin
-Yksinkertainen valuutanmuunnin
+# Valuutanmuunnin
+Simppeli valuutan muuntaja.
