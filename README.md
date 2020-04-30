@@ -1,6 +1,6 @@
 # Currency converter
 Simple converter, which can convert euros, dollars and pounds. Currency courses are taken from 29.4.2020. 
-Pretty simple code which also gives you a random fun fact (which wasn't necessary to put here but it looks slighty more interesting in my opinion).
+Pretty simple code which also gives you a random fun fact (which wasn't necessary to put here but i tried to make it look slightly interesting).
 
 # Screenshots
 This is how my code looks like. Not that advanced.
