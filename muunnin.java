@@ -50,7 +50,7 @@ public class muunnin {
         randomiLause.add("Fun fact: 40% maailman viineistä valmistetaan Italiassa ja Ranskassa.");
         randomiLause.add("Fun fact: Bill Gates aloitti ohjelmoinnin 13-vuotiaana.");
         
-        // GENERATES RANDOMLY ONE OF FOUR SENTENCES
+        // GENERATES RANDOMLY ONE OF THOSE FOUR FUN FACTS
         int x = (int) (Math.random() * randomiLause.size());
         String y = randomiLause.get(x);
         System.out.println(y);
